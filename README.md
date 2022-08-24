@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on [Winstanley Wizard Website](https://github.com/itsumarsoomro/WinstanleyWizardsResponsive.git)
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **React.js and Angular.js**
 
-- 👯 I’m looking to collaborate on **Exciting web projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsumarsoomro?tab=repositories](https://github.com/itsumarsoomro?tab=repositories)
 
