@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsumarsoomro?tab=repositories](https://github.com/itsumarsoomro?tab=repositories)
 
-- 💬 Ask me about **JS, .Net**
 
 - 📫 How to reach me **umarsoomro76@gmail.com**
 
