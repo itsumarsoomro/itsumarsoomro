@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, Umar here <br><br>🦾 Active React, Javascript, .Net, HTML, CSS,  and C# Developer.<br>📕 Currently working on Web projects.<br>🧐 2023 Goals: Learn more.
+Hi there, Umar here <br><br>🦾 Active React, Javascript, .Net, HTML, CSS,  and C# Developer.<br>📕 Currently working on Software projects.<br>🧐 2023 Goals: Learn/Develop more.
 
 
 <!-- ## 🌐 Socials:
