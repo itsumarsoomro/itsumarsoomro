@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, Umar here <br><br>🦾 Active Node.js, Express, MongoDB, SQL, Javascript, .Net, HTML, CSS, and C# Developer.<br>📕 Currently working on next gen platform.<br>🧐 2024 Goals: Develop more.
+Hi there, Umar here <br><br>🦾 Active Node.js, Express, MongoDB, SQL, Javascript, .Net, HTML, CSS, C# and Rest APIs Developer.<br>📕 Currently working on next gen platform.<br>🧐 2024 Goals: Develop more.
 
 
 <!-- ## 🌐 Socials:
